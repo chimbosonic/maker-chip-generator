@@ -3,7 +3,9 @@
 Parametric OpenSCAD design for a casino-style poker chip with embossed edge
 spots, logo, text, and a QR code — ready for FDM printing.
 
-![screenshot](screenshot.jpg)
+| Front | Back |
+| --- | --- |
+| ![front](example_front.png) | ![back](example_back.png) |
 
 ## Features
 
