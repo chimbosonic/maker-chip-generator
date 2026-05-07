@@ -37,16 +37,6 @@ spots, logo, text, and a QR code — ready for FDM printing.
 4. Render (F6) and export to 3MF for a multi-material slicer, or STL for
    single-color printing.
 
-## Print orientation
-
-Print **face up**. Bottom-face features sit on the bed (use a brim if
-adhesion is borderline); the disc bridges the small gaps between bottom
-spots; top-face features print last with the cleanest detail.
-
-The QR code is X-mirrored by default (`qr_mirror_x = true`) so it scans
-correctly after flipping the chip over its Y axis — the natural "page
-flip" motion.
-
 ## License
 
 MIT — see [LICENSE](LICENSE).
